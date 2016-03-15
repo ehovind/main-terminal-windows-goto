@@ -1,0 +1,4 @@
+*.swp
+bin/*.gc*
+bin/*.o
+mtwg
